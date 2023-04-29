@@ -50,15 +50,15 @@
 
   23/04/01 Demand collection: Through the on-site questionnaire survey, we found that demanders want that can play some casual games with the minimal traffic, but also challenging games.
 
- *23/04/02 Design: After discussing it, we finally decided to make a stand-alone version of the 2048 mini-game.
+  23/04/02 Design: After discussing it, we finally decided to make a stand-alone version of the 2048 mini-game.
 
- *23/04/04 Development: We created a 2048 game board with a 4x4 grid, and established a control direction that uses the up, down, left, and right of the arrow keys to slide blocks and merge blocks of the same color.
+  23/04/04 Development: We created a 2048 game board with a 4x4 grid, and established a control direction that uses the up, down, left, and right of the arrow keys to slide blocks and merge blocks of the same color.
 
- *23/04/04 Test: When we are in the development stage, we will test each direction of movement is correct and the grid color is acceptable.
+  23/04/04 Test: When we are in the development stage, we will test each direction of movement is correct and the grid color is acceptable.
 
- *23/04/10 Deployment: After all the functions are completed, we will send a completed file to the requesters to ensure that the program can satisfy the requesters.
+  23/04/10 Deployment: After all the functions are completed, we will send a completed file to the requesters to ensure that the program can satisfy the requesters.
 
- *23/04/11 Maintenance: After the requesters have finished testing the function, we will continue to collect their feedback to ensure that the program has no problems and add the game sound and switch the game sound function and add switch color function.
+  23/04/11 Maintenance: After the requesters have finished testing the function, we will continue to collect their feedback to ensure that the program has no problems and add the game sound and switch the game sound function and add switch color function.
  
 ### Algorithm
  
