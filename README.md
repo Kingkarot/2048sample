@@ -18,7 +18,7 @@
  
  
 ## Software development plan
-###Development Process
+### Development Process
 
   1.Planning and Design: The first step in developing the game is to plan and design the game mechanics, the user interface, and the overall look and feel of the game. This involves deciding on the game rules, the scoring system, the game board layout, and the graphics and animation.
 
