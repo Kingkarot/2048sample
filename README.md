@@ -2,7 +2,8 @@
  
 
 #Graphical Abstract
-![1682771849434](https://user-images.githubusercontent.com/130884044/235302943-869d8e73-88f5-4b42-b5b1-6bbed3608eff.jpg)
+  ![1682771849434](https://user-images.githubusercontent.com/130884044/235302943-869d8e73-88f5-4b42-b5b1-6bbed3608eff.jpg)
+
 
 
 #Introduction
