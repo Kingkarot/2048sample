@@ -1,22 +1,25 @@
 # 2048sample
  
-
-#Graphical Abstract
+ 
+##Graphical Abstract
 
 
   ![1682771849434](https://user-images.githubusercontent.com/130884044/235302943-869d8e73-88f5-4b42-b5b1-6bbed3608eff.jpg)
 
 
 
-#Introduction
+##Introduction
  2048 is an easy and fun puzzle game. Even if you don't love numbers you will love this game. It is played on a 4x4 grid using the arrows or W, A, S, D keys alternatively. Every time you press a key - all tiles slide. Tiles with the same value that bump into one-another are merged. Although there might be an optimal strategy to play, there is always some level of chance. If you beat the game and would like to master it, try to finish with a smaller score. That would mean that you finished with less moves.
  
  
-#Purpose
+##Purpose
  We use waterfall software development process to do this project.The project requirements are well-defined and unlikely to change significantly during the development process. We have a clear understanding of the project requirements and can accurately estimate the time and resources needed to complete each phase of the project. Our project is relatively small, with a limited scope and a short development timeline. Our project is a sample of 2048, just help the new javafx learners to learn javafx.
  
-#Software development plan
- ##Development Process
+ 
+ 
+##Software development plan
+###Development Process
+
   1.Planning and Design: The first step in developing the game is to plan and design the game mechanics, the user interface, and the overall look and feel of the game. This involves deciding on the game rules, the scoring system, the game board layout, and the graphics and animation.
 
  2.Setting up the Development Environment: The next step is to set up the development environment, which involves installing the necessary software, such as Java Development Kit (JDK), JavaFX, and Integrated Development Environment (IDE), such as Eclipse or IntelliJ IDEA.
@@ -31,7 +34,8 @@
 
  7. The final step in the development process is to deploy the game to the target platform, which can be desktop, web, or mobile. 
  
- ##Members (Roles & Responsibilities & Portion)
+###Members (Roles & Responsibilities & Portion)
+
   Abyss: Coder (responsible for development and maintenance) 30%
 
   Oscar: Developer (responsible for developing process planning and status design) 25%
@@ -42,7 +46,8 @@
 
   Andy: Developer (responsible for document changing) 5%
  
- ## Schedule
+###Schedule
+
   23/04/01 Demand collection: Through the on-site questionnaire survey, we found that demanders want that can play some casual games with the minimal traffic, but also challenging games.
 
  *23/04/02 Design: After discussing it, we finally decided to make a stand-alone version of the 2048 mini-game.
@@ -55,7 +60,8 @@
 
  *23/04/11 Maintenance: After the requesters have finished testing the function, we will continue to collect their feedback to ensure that the program has no problems and add the game sound and switch the game sound function and add switch color function.
  
- ##Algorithm
+###Algorithm
+ 
  1.At the start of the game, the game board is initialized with two tiles randomly placed on the board, each with a value of either 2 or 4.
 
  2.The player can move the tiles on the board by swiping left, right, up, or down. When a swipe is made, the tiles on the board move in the direction of the swipe until they reach the edge of the board or collide with another tile.
@@ -68,15 +74,19 @@
 
  6.The player's score is calculated based on the value of the tiles on the board. Each merged tile adds to the player's score, with higher-value tiles adding more points.
  
-  ##Current status of your software
+###Current status of your software
+
    The current status of the game in JavaFX is stable and functional, we successfully implemented the game using the JavaFX framework.
   
   ## Future plan
+  
     After collecting market response, we would like to start a new development plan to make new sample similar to 2048 or better design to the market.
     
   
- #Environments
+ ##Environments
+ 
   The programming language which we use is Javafx, and this program can run except for iOS system phones, We recommend using IntelliJ IDEA to run the program. If you want to run this program, you need to download java version11 JDK and javafx support for require file.
   
-#Demo
-Demo:https://youtu.be/jdLoHEYn1rg
+  ##Demo
+  
+   Demo:https://youtu.be/jdLoHEYn1rg
